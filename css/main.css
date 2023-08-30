@@ -1,0 +1,31 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    background-color: lightgray;
+}
+
+h1 {
+    margin: 10px;
+    margin-right: 10px;
+}
+
+
+.header-menu {
+    list-style-type: none;
+    padding: 0px;
+    display: flex;
+    gap: 30px;
+    float: right;
+    margin-right: 100px;
+}
+.article_border {
+    border: 2px solid black;
+    width: 200px;
+    height: 100px;
+}
+
+.footer {
+    background-color: lightgray;
+    display: flex;
+}
